@@ -1,0 +1,4 @@
+/laravel-api/vendor/
+/laravel-api/.env
+/laravel-api/storage/*.key
+/laravel-api/database/database.sqlite
